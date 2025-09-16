@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me https://github.com/SamueL-Collabsnk/SamueL-Collabsnk/tree/main
+- im working on my portfolio
 
 <!---
 SamueL-Collabsnk/SamueL-Collabsnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
