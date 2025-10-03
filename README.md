@@ -28,7 +28,16 @@
 
 ## 📊 My Skill Breakdown
 
-![Skills Pie Chart](./skills_pie_chart.svg)
+<div align="center">
+
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="432pt" viewBox="0 0 720 432" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <!-- full SVG content goes here (from the generated pie chart) -->
+</svg>
+
+</div>
 
 ---
 
@@ -60,6 +69,7 @@
 ---
 
 ✨ *“Code is not just about solving problems, it’s about creating possibilities.”*  
+
 
 
 <!---
