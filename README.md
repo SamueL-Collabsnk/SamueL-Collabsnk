@@ -63,7 +63,7 @@
 ## 📫 Connect with Me
 
 - GitHub: [SamueL-Collabsnk](https://github.com/SamueL-Collabsnk)  
-- Email: **your.email@example.com**  
+- Email: **samuelkimonge1@gmail.com**  
 - LinkedIn / Twitter / Portfolio — _(add links)_
 
 ---
